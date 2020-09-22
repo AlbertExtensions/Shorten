@@ -1,3 +1,4 @@
+"""Shorten link and copy to clipboard"""
 import time
 
 from albertv0 import *
